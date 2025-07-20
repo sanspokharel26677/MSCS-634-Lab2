@@ -55,7 +55,6 @@ The objective of this lab is to explore and compare the performance of two dista
 
 - `Lab2_KNN_RNN_Classifier.ipynb` – Jupyter Notebook with full implementation and commentary  
 - `README.md` – This file  
-- *(Optional)* `screenshots/` – Folder containing plot visuals if needed for documentation
 
 ---
 
